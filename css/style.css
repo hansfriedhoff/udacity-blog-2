@@ -272,6 +272,18 @@
 
         }
 
+        .article-main-text a {
+
+          color: var(--red2);
+          font-weight: bold;
+          text-underline-offset: 0.25em;
+          text-decoration-style: double;
+
+
+        }
+
+
+
 
     /*  MEDIA QUERIES  */
 
